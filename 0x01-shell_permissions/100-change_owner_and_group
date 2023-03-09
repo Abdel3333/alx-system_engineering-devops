@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(sudo chown vincent *) $( chgrp staff *)
+echo $(sudo chown vincent *)$( chgrp staff *)
