@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "$(ls -aplmFU) \n"
+echo -e "$(ls -aplm)\n"
